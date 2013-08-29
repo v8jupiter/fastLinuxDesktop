@@ -5,7 +5,7 @@ My desktop environment based on: Openbox, tint2
 
 Установка в ubuntu
  
-Ставим неоходимые пакеты apt-get install openbox tint2 xxkb feh mc gsimplecal
+Ставим неоходимые пакеты apt-get install openbox tint2 xxkb feh mc gsimplecal gmrun
 
 openbox - windows manager
 
@@ -18,5 +18,7 @@ feh - просмотерщик фотографий он же используе
 mc - консольный двухпанельный менеджер
 
 gsimplecal - календарь для панели управления
+
+grun - пускалка программ по alt+f2
 
 Далее заменить папки openbox tint2 в каталоге .config, все остальные файлы положить в домашний каталог пользователя
