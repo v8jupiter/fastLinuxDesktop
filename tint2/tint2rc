@@ -72,6 +72,7 @@ time2_font = sans 8
 clock_font_color = #ffffff 76
 clock_padding = 4 4
 clock_background_id = 1
+clock_lclick_command = /usr/bin/gsimplecal
 
 #---------------------------------------------
 # BATTERY

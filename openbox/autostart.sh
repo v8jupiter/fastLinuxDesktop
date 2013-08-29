@@ -1,7 +1,7 @@
 setxkbmap -layout us,ru -variant -option grp:ctrl_shift_toggle,grp_led:scroll,terminate:ctrl_alt_bksp &
 tint2 &
 xxkb &
-feh --bg-center /home/vladwork/desktop/Business_wallpapers_275.jpg &
+feh --bg-center /home/vladislav/Desktop/blood-on-the-dance-floor-in-index-php-s-p-t-wall-566926.jpg &
 volumeicon &
 google-chrome &
 skype &
