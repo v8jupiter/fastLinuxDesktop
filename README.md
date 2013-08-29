@@ -3,8 +3,8 @@ fastLinuxDesktop
 
 My desktop environment based on: Openbox, tint2
 
-Устанолвка
-
+Установка в ubuntu
+ 
 Ставим неоходимые пакеты apt-get install openbox tint2 xxkb feh mc gsimplecal
 
 openbox - windows manager
